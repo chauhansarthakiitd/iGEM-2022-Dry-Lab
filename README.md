@@ -137,3 +137,8 @@ Our structural modeling and molecular simulation approach successfully identifie
 - [Project Presentation Video](https://video.igem.org/w/17KyQ265cULvUv8w6uEB2E)
 
 [Add any other relevant links or references]
+
+## Citing
+
+Please cite this github account if you find this repo useful.
+
